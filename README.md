@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Movie and TV Shows Data Analysis
 ![Logo]!![logo](https://github.com/user-attachments/assets/0d5fa4fc-b2d9-4f20-af28-ac754d7b8d73)
 
 
